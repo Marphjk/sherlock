@@ -199,4 +199,4 @@ list of sites to ignore (one site name per line).
 ## License
 
 MIT © Sherlock Project<br/>
-Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)
+Original Creator - [Siddharth Dushantha](https://github.com/sdushantha)python3 -m pip install-r requirements kordonytv
